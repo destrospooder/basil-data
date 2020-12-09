@@ -1,11 +1,11 @@
 # basil-data
-**Pesto and yummy yummy linguine aglio e oilo!
+**Pesto and yummy yummy linguine aglio e oilo!**
 
-How to Run:
+**How to Run:**
 
 Google Colab includes a badge at the top of its code when exported to GitHub. This is one option for running the code.
 
-Abstract:
+**Abstract:**
 
 In my EID101 section, we created a basil hydroponics system incorporating a microcontroller and several sensors that collected data using existing infrastructure from the Cooper Union Sustainable Agriculture Project (CUSAP). The list of system names and data can be found at https://cusap-iot.uc.r.appspot.com/system/listSystems. One of the assignments was to use Pandas and Matplotlib that isolated a reading from a sensor and graphed it against time.
 
