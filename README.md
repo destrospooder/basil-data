@@ -14,3 +14,5 @@ First, I made a GET request to https://cusap-iot.uc.r.appspot.com/system/getRead
 I also had to learn how to use "timestamps", a Pythonic way of representing what time a reading was recorded at. In order to make these timestamps readable, I had to use the `datetime` module.
 
 When run, the code will create a DataFrame with two columns: timestamps and values of the readings from the hydroponics system's humidity sensor. It will also create a graph of the data over the span of one week, with axes marking % air humidity and time.
+
+![peepeepoopoocheck](https://memegenerator.net/img/instances/54966675.jpg)
