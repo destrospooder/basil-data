@@ -3,7 +3,7 @@
 
 **How to Run:**
 
-Google Colab includes a badge at the top of its code when exported to GitHub. This is one option for running the code.
+Google Colab includes a badge to run a copy of the code on its webpage when exported to GitHub. I'm not quite sure how to export the code and keep everything intact to allow for running outside of Colab, so hopefully this is acceptable.
 
 **Abstract:**
 
