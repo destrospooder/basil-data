@@ -5,6 +5,8 @@
 
 Google Colab includes a badge to run a copy of the code on its webpage when exported to GitHub. I'm not quite sure how to export the code and keep everything intact to allow for running outside of Colab, so hopefully this is acceptable.
 
+Click the badge and sign into your Google account. You should be able to access a disposable copy of runnable code.
+
 **Abstract:**
 
 In my EID101 section, we created a basil hydroponics system incorporating a microcontroller and several sensors that collected data using existing infrastructure from the Cooper Union Sustainable Agriculture Project (CUSAP). The list of system names and data can be found at https://cusap-iot.uc.r.appspot.com/system/listSystems. One of the assignments was to use Pandas and Matplotlib that isolated a reading from a sensor and graphed it against time.
