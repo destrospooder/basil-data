@@ -9,7 +9,7 @@ Click the badge and sign into your Google account. You should be able to access 
 
 **Abstract:**
 
-In my EID101 section, we created a basil hydroponics system incorporating a microcontroller and several sensors that collected data using existing infrastructure from the Cooper Union Sustainable Agriculture Project (CUSAP). The list of system names and data can be found at https://cusap-iot.uc.r.appspot.com/system/listSystems. One of the assignments was to use Pandas and Matplotlib that isolated a reading from a sensor and graphed it against time.
+In my EID101: Engineering Design section, we created a basil hydroponics system incorporating a microcontroller and several sensors that collected data using existing infrastructure from the Cooper Union Sustainable Agriculture Project (CUSAP). The list of system names and data can be found at https://cusap-iot.uc.r.appspot.com/system/listSystems. One of the assignments was to use Pandas and Matplotlib that isolated a reading from a sensor and graphed it against time.
 
 First, I made a GET request to https://cusap-iot.uc.r.appspot.com/system/getReadings, which takes in three query parameters: `systemId`, `timePeriod`, and `reading`. From the "reading" query parameter, I isolated `Air-Humidity`.
 
