@@ -3,7 +3,7 @@
 
 **How to Run:**
 
-Google Colab includes a badge to run a copy of the code on its webpage when exported to GitHub. You could also just clone the git repo and run [basil.py](./basil.py).
+Google Colab includes a badge to run a copy of the code on its webpage when exported to GitHub. Alternatively, you could just clone the git repo and run [basil.py](./basil.py).
 
 **Abstract:**
 
